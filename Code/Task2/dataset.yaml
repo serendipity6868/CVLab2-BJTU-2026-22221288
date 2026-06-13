@@ -1,0 +1,7 @@
+# dataset.yaml
+path: "D:\\CodeWorks\\CVLab2\\Code\\Task2\\yolo_dataset"
+train: images/train
+val: images/val
+
+names:
+  0: text
